@@ -12,7 +12,7 @@ public:
 		      fileName, 
 		      0x500) // max total Size to use (EXAMPLE)
   {
-    // Use all helper functions to create the payload
+    // INSTRUCTION: Use the helper functions to create the payload here.
   }  
 };
 
@@ -26,7 +26,7 @@ public:
 		      fileName, 
 		      0x42000) // max total Size to use (EXAMPLE)
   {
-    // Use all helper functions here to create the payload
+    // INSTRUCTION: Use the helper functions here to create the payload here.
   }
 };
 
