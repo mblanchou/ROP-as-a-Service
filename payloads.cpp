@@ -26,7 +26,7 @@ public:
 		      fileName, 
 		      0x42000) // max total Size to use (EXAMPLE)
   {
-    // INSTRUCTION: Use the helper functions here to create the payload here.
+    // INSTRUCTION: Use the helper functions to create the payload here.
   }
 };
 
